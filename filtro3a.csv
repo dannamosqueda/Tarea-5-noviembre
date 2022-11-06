@@ -1,0 +1,240 @@
+,continent,region,surface_area
+0,North America,Caribbean,193.0
+1,Asia,Southern and Central Asia,652090.0
+2,Africa,Central Africa,1246700.0
+3,North America,Caribbean,96.0
+4,Europe,Southern Europe,28748.0
+5,Europe,Southern Europe,468.0
+6,North America,Caribbean,800.0
+7,Asia,Middle East,83600.0
+8,South America,South America,2780400.0
+9,Asia,Middle East,29800.0
+10,Oceania,Polynesia,199.0
+11,Antarctica,Antarctica,13120000.0
+12,Antarctica,Antarctica,7780.0
+13,North America,Caribbean,442.0
+14,Oceania,Australia and New Zealand,7741220.0
+15,Europe,Western Europe,83859.0
+16,Asia,Middle East,86600.0
+17,Africa,Eastern Africa,27834.0
+18,Europe,Western Europe,30518.0
+19,Africa,Western Africa,112622.0
+20,Africa,Western Africa,274000.0
+21,Asia,Southern and Central Asia,143998.0
+22,Europe,Eastern Europe,110994.0
+23,Asia,Middle East,694.0
+24,North America,Caribbean,13878.0
+25,Europe,Southern Europe,51197.0
+26,Europe,Eastern Europe,207600.0
+27,North America,Central America,22696.0
+28,North America,North America,53.0
+29,South America,South America,1098581.0
+30,South America,South America,8547403.0
+31,North America,Caribbean,430.0
+32,Asia,Southeast Asia,5765.0
+33,Asia,Southern and Central Asia,47000.0
+34,Antarctica,Antarctica,59.0
+35,Africa,Southern Africa,581730.0
+36,Africa,Central Africa,622984.0
+37,North America,North America,9970610.0
+38,Oceania,Australia and New Zealand,14.0
+39,Europe,Western Europe,41284.0
+40,South America,South America,756626.0
+41,Asia,Eastern Asia,9572900.0
+42,Africa,Western Africa,322463.0
+43,Africa,Central Africa,475442.0
+44,Africa,Central Africa,2344858.0
+45,Africa,Central Africa,342000.0
+46,Oceania,Polynesia,236.0
+47,South America,South America,1138914.0
+48,Africa,Eastern Africa,1862.0
+49,Africa,Western Africa,4033.0
+50,North America,Central America,51100.0
+51,North America,Caribbean,110861.0
+52,Oceania,Australia and New Zealand,135.0
+53,North America,Caribbean,264.0
+54,Asia,Middle East,9251.0
+55,Europe,Eastern Europe,78866.0
+56,Europe,Western Europe,357022.0
+57,Africa,Eastern Africa,23200.0
+58,North America,Caribbean,751.0
+59,Europe,Nordic Countries,43094.0
+60,North America,Caribbean,48511.0
+61,Africa,Northern Africa,2381741.0
+62,South America,South America,283561.0
+63,Africa,Northern Africa,1001449.0
+64,Africa,Eastern Africa,117600.0
+65,Africa,Northern Africa,266000.0
+66,Europe,Southern Europe,505992.0
+67,Europe,Baltic Countries,45227.0
+68,Africa,Eastern Africa,1104300.0
+69,Europe,Nordic Countries,338145.0
+70,Oceania,Melanesia,18274.0
+71,South America,South America,12173.0
+72,Europe,Western Europe,551500.0
+73,Europe,Nordic Countries,1399.0
+74,Oceania,Micronesia,702.0
+75,Africa,Central Africa,267668.0
+76,Europe,British Islands,242900.0
+77,Asia,Middle East,69700.0
+78,Africa,Western Africa,238533.0
+79,Europe,Southern Europe,6.0
+80,Africa,Western Africa,245857.0
+81,North America,Caribbean,1705.0
+82,Africa,Western Africa,11295.0
+83,Africa,Western Africa,36125.0
+84,Africa,Central Africa,28051.0
+85,Europe,Southern Europe,131626.0
+86,North America,Caribbean,344.0
+87,North America,North America,2166090.0
+88,North America,Central America,108889.0
+89,South America,South America,90000.0
+90,Oceania,Micronesia,549.0
+91,South America,South America,214969.0
+92,Asia,Eastern Asia,1075.0
+93,Antarctica,Antarctica,359.0
+94,North America,Central America,112088.0
+95,Europe,Southern Europe,56538.0
+96,North America,Caribbean,27750.0
+97,Europe,Eastern Europe,93030.0
+98,Asia,Southeast Asia,1904569.0
+99,Asia,Southern and Central Asia,3287263.0
+100,Africa,Eastern Africa,78.0
+101,Europe,British Islands,70273.0
+102,Asia,Southern and Central Asia,1648195.0
+103,Asia,Middle East,438317.0
+104,Europe,Nordic Countries,103000.0
+105,Asia,Middle East,21056.0
+106,Europe,Southern Europe,301316.0
+107,North America,Caribbean,10990.0
+108,Asia,Middle East,88946.0
+109,Asia,Eastern Asia,377829.0
+110,Asia,Southern and Central Asia,2724900.0
+111,Africa,Eastern Africa,580367.0
+112,Asia,Southern and Central Asia,199900.0
+113,Asia,Southeast Asia,181035.0
+114,Oceania,Micronesia,726.0
+115,North America,Caribbean,261.0
+116,Asia,Eastern Asia,99434.0
+117,Asia,Middle East,17818.0
+118,Asia,Southeast Asia,236800.0
+119,Asia,Middle East,10400.0
+120,Africa,Western Africa,111369.0
+121,Africa,Northern Africa,1759540.0
+122,North America,Caribbean,622.0
+123,Europe,Western Europe,160.0
+124,Asia,Southern and Central Asia,65610.0
+125,Africa,Southern Africa,30355.0
+126,Europe,Baltic Countries,65301.0
+127,Europe,Western Europe,2586.0
+128,Europe,Baltic Countries,64589.0
+129,Asia,Eastern Asia,18.0
+130,Africa,Northern Africa,446550.0
+131,Europe,Western Europe,1.5
+132,Europe,Eastern Europe,33851.0
+133,Africa,Eastern Africa,587041.0
+134,Asia,Southern and Central Asia,298.0
+135,North America,Central America,1958201.0
+136,Oceania,Micronesia,181.0
+137,Europe,Southern Europe,25713.0
+138,Africa,Western Africa,1240192.0
+139,Europe,Southern Europe,316.0
+140,Asia,Southeast Asia,676578.0
+141,Asia,Eastern Asia,1566500.0
+142,Oceania,Micronesia,464.0
+143,Africa,Eastern Africa,801590.0
+144,Africa,Western Africa,1025520.0
+145,North America,Caribbean,102.0
+146,North America,Caribbean,1102.0
+147,Africa,Eastern Africa,2040.0
+148,Africa,Eastern Africa,118484.0
+149,Asia,Southeast Asia,329758.0
+150,Africa,Eastern Africa,373.0
+151,Africa,Southern Africa,824292.0
+152,Oceania,Melanesia,18575.0
+153,Africa,Western Africa,1267000.0
+154,Oceania,Australia and New Zealand,36.0
+155,Africa,Western Africa,923768.0
+156,North America,Central America,130000.0
+157,Oceania,Polynesia,260.0
+158,Europe,Western Europe,41526.0
+159,Europe,Nordic Countries,323877.0
+160,Asia,Southern and Central Asia,147181.0
+161,Oceania,Micronesia,21.0
+162,Oceania,Australia and New Zealand,270534.0
+163,Asia,Middle East,309500.0
+164,Asia,Southern and Central Asia,796095.0
+165,North America,Central America,75517.0
+166,Oceania,Polynesia,49.0
+167,South America,South America,1285216.0
+168,Asia,Southeast Asia,300000.0
+169,Oceania,Micronesia,459.0
+170,Oceania,Melanesia,462840.0
+171,Europe,Eastern Europe,323250.0
+172,North America,Caribbean,8875.0
+173,Asia,Eastern Asia,120538.0
+174,Europe,Southern Europe,91982.0
+175,South America,South America,406752.0
+176,Asia,Middle East,6257.0
+177,Oceania,Polynesia,4000.0
+178,Asia,Middle East,11000.0
+179,Africa,Eastern Africa,2510.0
+180,Europe,Eastern Europe,238391.0
+181,Europe,Eastern Europe,17075400.0
+182,Africa,Eastern Africa,26338.0
+183,Asia,Middle East,2149690.0
+184,Africa,Northern Africa,2505813.0
+185,Africa,Western Africa,196722.0
+186,Asia,Southeast Asia,618.0
+187,Antarctica,Antarctica,3903.0
+188,Africa,Western Africa,314.0
+189,Europe,Nordic Countries,62422.0
+190,Oceania,Melanesia,28896.0
+191,Africa,Western Africa,71740.0
+192,North America,Central America,21041.0
+193,Europe,Southern Europe,61.0
+194,Africa,Eastern Africa,637657.0
+195,North America,North America,242.0
+196,Africa,Central Africa,964.0
+197,South America,South America,163265.0
+198,Europe,Eastern Europe,49012.0
+199,Europe,Southern Europe,20256.0
+200,Europe,Nordic Countries,449964.0
+201,Africa,Southern Africa,17364.0
+202,Africa,Eastern Africa,455.0
+203,Asia,Middle East,185180.0
+204,North America,Caribbean,430.0
+205,Africa,Central Africa,1284000.0
+206,Africa,Western Africa,56785.0
+207,Asia,Southeast Asia,513115.0
+208,Asia,Southern and Central Asia,143100.0
+209,Oceania,Polynesia,12.0
+210,Asia,Southern and Central Asia,488100.0
+211,Asia,Southeast Asia,14874.0
+212,Oceania,Polynesia,650.0
+213,North America,Caribbean,5130.0
+214,Africa,Northern Africa,163610.0
+215,Asia,Middle East,774815.0
+216,Oceania,Polynesia,26.0
+217,Asia,Eastern Asia,36188.0
+218,Africa,Eastern Africa,883749.0
+219,Africa,Eastern Africa,241038.0
+220,Europe,Eastern Europe,603700.0
+221,Oceania,Micronesia/Caribbean,16.0
+222,South America,South America,175016.0
+223,North America,North America,9363520.0
+224,Asia,Southern and Central Asia,447400.0
+225,Europe,Southern Europe,0.4
+226,North America,Caribbean,388.0
+227,South America,South America,912050.0
+228,North America,Caribbean,151.0
+229,North America,Caribbean,347.0
+230,Asia,Southeast Asia,331689.0
+231,Oceania,Melanesia,12189.0
+232,Oceania,Polynesia,200.0
+233,Oceania,Polynesia,2831.0
+234,Asia,Middle East,527968.0
+235,Europe,Southern Europe,102173.0
+236,Africa,Southern Africa,1221037.0
+237,Africa,Eastern Africa,752618.0
+238,Africa,Eastern Africa,390757.0
